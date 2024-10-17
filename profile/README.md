@@ -1,50 +1,25 @@
-# Data Intuitive
 
-## 🌐 **About Us**
+[![](https://www.data-intuitive.com/images/logoditext.svg)](https://data-intuitive.com)
 
-Data Intuitive ([www.data-intuitive.com](https://www.data-intuitive.com)) is at the forefront of biotech research and computational technology. With years of experience in infrastructure operations, workflow development, and data analysis and visualisation, we've introduced the innovation of Viash, a groundbreaking tool for building modular data workflows. Our objective is to accelerate research while ensuring reproducibility, scalability, and less IT overhead.
+**Data Intuitive** is a team of passionate data scientists and software engineers who help life scientists make sense of their data. We specialize in developing robust and scalable data workflows, benchmarking computational methods, and providing training to empower researchers.
 
----
+**Our mission:** To bridge the gap between data and biological insights.
 
-## 🧬 **Viash™: Modular Data Workflows**
+**Our services:**
 
-📖 **Description:** Viash is designed for developing modular data workflows, enabling reproducible and reusable computational research. Our platform empowers scientists to seamlessly create, reuse, and adapt standardized pipeline building blocks and incorporate them into their data pipelines.
+  * **Data workflow development:** We design and implement custom data analysis workflows tailored to your specific research needs.
+  * **Computational method benchmarking:** We evaluate and compare different computational methods to identify the best approach for your data.
+  * **Training:** We offer workshops and training sessions to help researchers acquire the skills and knowledge needed to effectively analyze their data.
 
-🛠 **Repositories & Resources:** 
-- [Viash Source Code](https://github.com/viash-io/viash)
-- [Documentation Site](https://viash.io)
-- [Github Actions for Viash](https://github.com/viash-io/viash-actions)
+**Featured products:**
 
-🔗 **Open-Source Projects Using Viash:**
-- [Open Pipelines](https://openpipelines.bio)
-- [Open Problems](https://openproblems.bio)
-- [LuciusOperations](https://www.data-intuitive.com/LuciusOperations/README.html)
+  * **Viash:** A framework for developing and benchmarking bioinformatics workflows. ([viash.io](https://viash.io))
+  * **Viash Hub:** A platform for sharing and discovering Viash workflows. (Available 2025 Q1)
+  * **Viash Catalogue:** A curated collection of high-quality Viash components and workflows. ([github.com/viash-hub](https://github.com/viash-hub))
+  * **Open Problems in Single-Cell Analysis:** A collection of benchmark datasets and evaluation metrics for computational biology. ([openproblems.bio](https://openproblems.bio/))
+  * **OpenPipelines:** A set of standardized pipelines for single-cell RNA-seq data analysis. ([openpipelines.bio](https://openpipelines.bio))
+  * **anndataR:** An R package for working with annotated data matrices. ([scverse/anndataR](https://github.com/scverse/anndataR), [website](https://anndatar.data-intuitive.com/))
 
-[📩 **Contact Us**](https://www.data-intuitive.com/contact.html)
+**Website:** [data-intuitive.com](data-intuitive.com)
 
----
-
-### 🧫 **OpenPipeline: Modular multi-omics workflows**
-
-📖 **Description:** OpenPipeline offers extensible single-cell analysis pipelines for large-scale processing using Viash and Nextflow. Build and execute reproducible pipelines with ease.
-
-🔍 **Deep Dive:** Explore the [GitHub page](https://github.com/openpipelines-bio) and [documentation page](https://openpipelines.bio) for a comprehensive understanding.
-
-
----
-
-### 🦠 **ComPass: Exploring Disease Pathways**
-
-📖 **Description:** ComPass provides an application interface to query and analyze Connectivity Map data (L1000). Enabling researchers to perform tasks traditionally done through batch processes, the interface offers four interactive workflows.
-
-🔓 **License:** ComPass is Open Source and is freely available. For professional use, consider our support contract.
-
----
-
-📌 **Get in Touch:** Whether you're looking for more details, interested in collaboration, or simply eager to learn more about our internal resources and applications, feel free to [reach out to us](https://www.data-intuitive.com/contact.html).
-
-📢 **Follow Us:** Stay updated with our latest advancements, projects, and collaborative opportunities. 
-
----
-
-© 2023 Data Intuitive. All Rights Reserved.
+**Get in touch:** We are always happy to discuss your data analysis needs. Feel free to contact us through our website: [Book a meeting](https://www.data-intuitive.com/contact/bookmeeting.html).
